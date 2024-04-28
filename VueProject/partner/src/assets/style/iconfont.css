@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4425335 */
+  src: url('//at.alicdn.com/t/c/font_4425335_ro9qi5au25c.woff2?t=1708260425116') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4425335_ro9qi5au25c.woff?t=1708260425116') format('woff'),
+       url('//at.alicdn.com/t/c/font_4425335_ro9qi5au25c.ttf?t=1708260425116') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wode-shezhi:before {
+  content: "\e621";
+}
+
+.icon-kefu:before {
+  content: "\e63f";
+}
+
+.icon-gerenzhongxin:before {
+  content: "\e628";
+}
+
+.icon-bangzhu:before {
+  content: "\e8c3";
+}
+
+.icon-tuijian:before {
+  content: "\e631";
+}
+
+.icon-meiyouxiaoxi:before {
+  content: "\e600";
+}
+
+.icon-icon_xihuan:before {
+  content: "\e61f";
+}
+
+.icon-xiaoxi1:before {
+  content: "\e605";
+}
+
+.icon-04:before {
+  content: "\e607";
+}
+
+.icon-xiaoxi:before {
+  content: "\e61e";
+}
+
+.icon-hanhan-01-01:before {
+  content: "\e687";
+}
